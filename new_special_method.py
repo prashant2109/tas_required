@@ -1,0 +1,3 @@
+class LimitedInstance(object):
+    _
+
